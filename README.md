@@ -12,6 +12,8 @@
 - 🌿 **المحافظة على البيئة:** ازدهار الطحالب في البحيرة، النباتات الغازية، موجات الحر والري المستدام، حماية الملقّحات.
 - 🔬 **مراقبة الخبراء:** الآفات والأمراض الزراعية، ومناخ القباب والمشاتل مقابل الطقس الخارجي، والجراد والعقارب والنمل الأبيض والأزمات المركّبة.
 
+تعرض الصفحة الرئيسية أيضاً **قيمة مضافة**: محمية الطيور ومحمية الفراشات (برنامجان مستقلان)، وقصص نجاحنا في الولايات المتحدة وباكستان وفيتنام.
+
 يضم البرنامج 18 سيناريو و220 مستشعراً و66 إجراءً للمكافحة المتكاملة و21 آفة ومرضاً. كل سيناريو يُقيَّم من 100 وينتهي بتقرير PDF.
 
 ![التوأم الرقمي](docs/cover.jpg)
@@ -23,7 +25,7 @@
 | [**GardenShield-Twin-Setup-2.0.0.exe**](https://github.com/asfantrading-create/GardenShield-Twin-ENMATECH/releases/latest/download/GardenShield-Twin-Setup-2.0.0.exe) | المثبّت، ويُنشئ اختصاراً على سطح المكتب وفي قائمة ابدأ |
 | [**GardenShield-Twin-Portable-2.0.0.exe**](https://github.com/asfantrading-create/GardenShield-Twin-ENMATECH/releases/latest/download/GardenShield-Twin-Portable-2.0.0.exe) | نسخة محمولة تعمل مباشرة دون تثبيت |
 | [**GardenShield-Twin-User-Guide-AR-EN.pdf**](https://github.com/asfantrading-create/GardenShield-Twin-ENMATECH/releases/latest/download/GardenShield-Twin-User-Guide-AR-EN.pdf) | دليل المستخدم بالعربية والإنجليزية مع صور توضيحية |
-| [**GardenShield-Twin-Video-AR-EN.mp4**](https://github.com/asfantrading-create/GardenShield-Twin-ENMATECH/releases/latest/download/GardenShield-Twin-Video-AR-EN.mp4) | فيديو تعريفي بالبرنامج وصفحاته (4½ دقائق) |
+| [**GardenShield-Twin-Video-AR-EN.mp4**](https://github.com/asfantrading-create/GardenShield-Twin-ENMATECH/releases/latest/download/GardenShield-Twin-Video-AR-EN.mp4) | فيديو تعريفي بالبرنامج وصفحاته (5 دقائق تقريباً) |
 
 صفحة كل الإصدارات: [Releases](https://github.com/asfantrading-create/GardenShield-Twin-ENMATECH/releases)
 
@@ -53,6 +55,8 @@ A 3D digital twin of **King Abdullah International Gardens**, Riyadh. It works o
 - 🛡️ **Biosecurity:** staff biosecurity and PPE training (choosing PPE, donning, doffing and decontamination), infested consignments, red palm weevil, mosquitoes, rodents and food-court hygiene.
 - 🌿 **Environmental protection:** harmful algal bloom in the lake, invasive plants, heat waves with sustainable irrigation, and pollinator protection.
 - 🔬 **Expert monitoring:** pests and plant diseases, dome and nursery climate compared with outdoor weather, locusts, scorpions, termites and compound crises.
+
+The start page also presents **added value**: the Bird Sanctuary and Butterfly Sanctuary (two standalone programs), and our success stories in the United States, Pakistan and Vietnam.
 
 It includes 18 scenarios, 220 sensors, 66 IPM actions and 21 pests and diseases. Every scenario is scored out of 100 and ends with a PDF report.
 
