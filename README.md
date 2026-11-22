@@ -12,7 +12,7 @@
 - 🌿 **المحافظة على البيئة:** ازدهار الطحالب في البحيرة، النباتات الغازية، موجات الحر والري المستدام، حماية الملقّحات.
 - 🔬 **مراقبة الخبراء:** الآفات والأمراض الزراعية، ومناخ القباب والمشاتل مقابل الطقس الخارجي، والجراد والعقارب والنمل الأبيض والأزمات المركّبة.
 
-تعرض الصفحة الرئيسية أيضاً **قيمة مضافة**: خبراتنا في كل من محمية الطيور ومحمية الفراشات (برنامجان مستقلان)، وقصص نجاحنا في الولايات المتحدة وباكستان وفيتنام.
+تعرض الصفحة الرئيسية أيضاً **برامج إضافية بحساب منفصل**: خبراتنا في كل من محمية الطيور ومحمية الفراشات (برنامجان مستقلان، بعرض مالي منفصل)، وقصص نجاحنا في الولايات المتحدة وباكستان وفيتنام.
 
 يضم البرنامج 23 سيناريو و220 مستشعراً و68 إجراءً للمكافحة المتكاملة و21 آفة ومرضاً. كل سيناريو يُقيَّم من 100 وينتهي بتقرير PDF.
 
@@ -56,7 +56,7 @@ A 3D digital twin of **King Abdullah International Gardens**, Riyadh. It works o
 - 🌿 **Environmental protection:** harmful algal bloom in the lake, invasive plants, heat waves with sustainable irrigation, and pollinator protection.
 - 🔬 **Expert monitoring:** pests and plant diseases, dome and nursery climate compared with outdoor weather, locusts, scorpions, termites and compound crises.
 
-The start page also presents **added value**: our expertise in both the Bird Sanctuary and the Butterfly Sanctuary (two standalone programs), and our success stories in the United States, Pakistan and Vietnam.
+The start page also presents **additional programs, separately priced**: our expertise in both the Bird Sanctuary and the Butterfly Sanctuary (two standalone programs, priced in a separate offer), and our success stories in the United States, Pakistan and Vietnam.
 
 It includes 23 scenarios, 220 sensors, 68 IPM actions and 21 pests and diseases. Every scenario is scored out of 100 and ends with a PDF report.
 
