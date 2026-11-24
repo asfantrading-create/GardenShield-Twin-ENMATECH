@@ -9,7 +9,7 @@
 منصة توأم رقمي ثلاثي الأبعاد لـ **حدائق الملك عبدالله العالمية** بالرياض. تعمل دون إنترنت باللغتين العربية والإنجليزية، والمظهر الفاتح هو الأساس مع مظهر داكن اختياري. تبدأ من صفحة رئيسية بثلاثة مسارات:
 
 - 🛡️ **الأمن الحيوي:** تدريب الطاقم على الأمن الحيوي ومعدات الوقاية الشخصية (اختيار المعدات، الارتداء، الخلع وإزالة التلوث)، الشحنات المصابة، سوسة النخيل، البعوض، القوارض، النظافة في المطاعم.
-- 🌿 **المحافظة على البيئة:** ازدهار الطحالب في البحيرة، النباتات الغازية، موجات الحر والري المستدام، حماية الملقّحات.
+- 🌿 **المحافظة على البيئة:** ازدهار الطحالب في البحيرة، النباتات الغازية، موجات الحر والري المستدام، مكافحة تفشي المنّ.
 - 🔬 **مراقبة الخبراء:** الآفات والأمراض الزراعية، ومناخ القباب والمشاتل مقابل الطقس الخارجي، والجراد والعقارب والنمل الأبيض والأزمات المركّبة.
 
 تعرض الصفحة الرئيسية أيضاً **برامج إضافية غير شاملة بالعرض**: خبراتنا في كل من محمية الطيور ومحمية الفراشات (برنامجان مستقلان، غير شاملين بالعرض)، وقصص نجاحنا في الولايات المتحدة وباكستان وفيتنام.
@@ -53,7 +53,7 @@
 A 3D digital twin of **King Abdullah International Gardens**, Riyadh. It works offline in Arabic and English, with a light theme by default and an optional dark theme. The start page offers three tracks:
 
 - 🛡️ **Biosecurity:** staff biosecurity and PPE training (choosing PPE, donning, doffing and decontamination), infested consignments, red palm weevil, mosquitoes, rodents and food-court hygiene.
-- 🌿 **Environmental protection:** harmful algal bloom in the lake, invasive plants, heat waves with sustainable irrigation, and pollinator protection.
+- 🌿 **Environmental protection:** harmful algal bloom in the lake, invasive plants, heat waves with sustainable irrigation, and aphid outbreak control.
 - 🔬 **Expert monitoring:** pests and plant diseases, dome and nursery climate compared with outdoor weather, locusts, scorpions, termites and compound crises.
 
 The start page also presents **additional programs, not included in this offer**: our expertise in both the Bird Sanctuary and the Butterfly Sanctuary (two standalone programs, not included in this offer), and our success stories in the United States, Pakistan and Vietnam.
